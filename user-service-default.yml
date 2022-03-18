@@ -4,7 +4,7 @@ server:
 spring:
   profiles: default
   datasource:
-    url: jdbc:mysql://localhost:3306/UserSOA
+    url: jdbc:mysql://localhost:3306/ntu_ci6225
     username: root
     password: root
     useSSL: false
